@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Misterio de tu piel
+
+This log tracks the cryptographic history and versioning for the song **Misterio de tu piel** (misterio-de-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T06:42:03.928728 | `v1` | `8f5bd4bd39a4b66118d540c3698ef79fd3279e10bfb5641a9105ae4fa9f8a53c` | `1df33e2f32418215cf6bb105168ed24c2c04ae14d59d3625941c523a13d4d34e` | `2026-06-23_misterio-de-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

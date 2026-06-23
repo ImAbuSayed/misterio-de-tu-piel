@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-de-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Misterio de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-tu-piel/) |
+| **Get License** | [License this song: Misterio de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8f5bd4bd39a4b66118d540c3698ef79fd3279e10bfb5641a9105ae4fa9f8a53c` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
