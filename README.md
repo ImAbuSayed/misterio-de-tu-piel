@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/misterio-de-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Misterio de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-tu-piel/) |
+| **Get License** | [Get License For Misterio de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/misterio-de-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Misterio de tu piel, me llama otra vez
+> Bajo la luz del club, te quiero conocer
+> Tus labios van y vienen como marea en la piel
+> Misterio de tu piel, no puedo perder
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
